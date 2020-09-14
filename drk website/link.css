@@ -1,0 +1,17 @@
+
+a:hover{
+background-color:lightgreen;
+}
+
+div a{
+border-spacing:20px;
+
+margin-left:70px;
+text-decoration:none;
+color:brown;
+border:10px;
+font-weight:bold;
+font-size:30px;
+padding:10px;
+
+}
